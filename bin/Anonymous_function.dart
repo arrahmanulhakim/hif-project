@@ -5,6 +5,9 @@ class Anonyomus {
 }
 
 void main(List<String> args) {
-  var anonyomus = Anonyomus();
-  anonyomus.call();
+  var anonymous = Anonyomus();
+  anonyomus.call();\
+  
+  var anonymous2 = Anonyomus();
+  anonymous2.call();
 }
