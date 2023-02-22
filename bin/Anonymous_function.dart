@@ -6,7 +6,7 @@ class Anonyomus {
 
 void main(List<String> args) {
   var anonymous = Anonyomus();
-  anonyomus.call();\
+  anonymous.call();\
   
   var anonymous2 = Anonyomus();
   anonymous2.call();
